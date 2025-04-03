@@ -1,3 +1,7 @@
 Funcionamiento:
 
-![1743651453211](images/readme/1743651453211.png)
+![1743659199382](images/readme/1743659199382.png)
+
+![1743659215621](images/readme/1743659215621.png)
+
+![1743659227905](images/readme/1743659227905.png)
